@@ -1,0 +1,4 @@
+__pycache__/*
+errors.log
+example.db
+.venv/*
